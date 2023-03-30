@@ -1,4 +1,4 @@
-# ALX Backend JavaScript
+# ALX Backend Python
 
 ![Repo size](https://img.shields.io/github/repo-size/M1urray/alx-backend-python)
 ![Repo License](https://img.shields.io/github/license/M1urray/alx-backend-python.svg)
